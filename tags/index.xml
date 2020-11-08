@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Some Title</title>
-    <link>https://nadiasama.github.io/tags/</link>
-    <description>Recent content in Tags on Some Title</description>
+    <title>Tags on eeiwant&#39;s life</title>
+    <link>https://eeiwant.life/tags/</link>
+    <description>Recent content in Tags on eeiwant&#39;s life</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://nadiasama.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language><atom:link href="https://eeiwant.life/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

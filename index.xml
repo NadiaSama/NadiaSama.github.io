@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Some Title</title>
-    <link>https://nadiasama.github.io/</link>
-    <description>Recent content on Some Title</description>
+    <title>eeiwant&#39;s life</title>
+    <link>https://eeiwant.life/</link>
+    <description>Recent content on eeiwant&#39;s life</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 11 Oct 2020 21:25:17 +0800</lastBuildDate><atom:link href="https://nadiasama.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 11 Oct 2020 21:25:17 +0800</lastBuildDate><atom:link href="https://eeiwant.life/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>https://nadiasama.github.io/posts/my-first-post/</link>
+      <link>https://eeiwant.life/posts/2020/my-first-post/</link>
       <pubDate>Sun, 11 Oct 2020 21:25:17 +0800</pubDate>
       
-      <guid>https://nadiasama.github.io/posts/my-first-post/</guid>
-      <description></description>
+      <guid>https://eeiwant.life/posts/2020/my-first-post/</guid>
+      <description>测试 这是一个测试
+ test this is a test     a b c     hehehe sdfsfs sdfsf    </description>
     </item>
     
   </channel>
